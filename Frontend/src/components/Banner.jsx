@@ -30,7 +30,7 @@ export default function Banner() {
                         </label>
                        
                     </div>
-                     <button className="btn btn-secondary mt-6">Secondary</button>
+                     <button className="btn btn-secondary mt-6">Get Started</button>
                     <div className="validator-hint hidden">Enter valid email address</div>
                 </div>
                 <div className='order-1 w-full md:w-1/2'  >
